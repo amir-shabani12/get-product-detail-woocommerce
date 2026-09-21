@@ -6,7 +6,7 @@
 
 ---
 لینک مشاهده دمو
-https://storage-web.ct.ws/
+https://storage-web.ct.ws
 
 ## ویژگی‌ها
 
